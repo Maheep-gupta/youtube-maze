@@ -1,0 +1,30 @@
+{
+  "name": "live-chat-companion",
+  "version": "1.0.0",
+  "description": "Local dashboard for scheduling chat messages in your own YouTube livestream via the official YouTube Data API.",
+  "private": true,
+  "type": "module",
+  "main": "src/server.js",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch-path=src --watch-path=public src/server.js",
+    "test": "node --test --test-concurrency=1 \"test/unit/**/*.test.js\" \"test/integration/**/*.test.js\"",
+    "test:e2e": "playwright test",
+    "import": "node scripts/import-messages.js",
+    "backup": "node scripts/backup.js",
+    "restore": "node scripts/restore.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "supertest": "^7.0.0"
+  }
+}

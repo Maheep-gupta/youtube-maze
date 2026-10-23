@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.key
+secrets/
+client_secret*.json
+credentials*.json
+token*.json
+
+# Local data: SQLite database, encryption key, backups, exports
+data/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+exports/
+backups/
+
+# Test / tooling output
+test-results/
+playwright-report/
+coverage/
+*.log

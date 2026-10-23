@@ -1,0 +1,205 @@
+{
+  "version": 1,
+  "messages": [
+    {
+      "text": "This stream is genuinely the highlight of my day 🙌",
+      "category": "compliments",
+      "enabled": true
+    },
+    {
+      "text": "Love how you explain your thinking as you go, it makes it so easy to follow.",
+      "category": "compliments",
+      "enabled": true
+    },
+    {
+      "text": "The overlay looks amazing tonight ✨",
+      "category": "compliments",
+      "enabled": true
+    },
+    {
+      "text": "Your consistency with these streams is inspiring.",
+      "category": "compliments",
+      "enabled": true
+    },
+    {
+      "text": "Great pacing on this stream, never a dull moment.",
+      "category": "compliments",
+      "enabled": true
+    },
+    {
+      "text": "Honestly the camera setup looks so good now.",
+      "category": "compliments",
+      "enabled": true
+    },
+    {
+      "text": "Every stream feels a little more polished than the last. Love to see it.",
+      "category": "compliments",
+      "enabled": true
+    },
+    {
+      "text": "You always make new folks in chat feel welcome. That matters.",
+      "category": "compliments",
+      "enabled": true
+    },
+    {
+      "text": "Oh sure, make it look easy. Totally fair to the rest of us 🙄",
+      "category": "sarcasm",
+      "enabled": true
+    },
+    {
+      "text": "Ah yes, the famous strategy of hoping it works. Bold.",
+      "category": "sarcasm",
+      "enabled": true
+    },
+    {
+      "text": "Nothing to see here, just a professional at work. Very professional.",
+      "category": "sarcasm",
+      "enabled": true
+    },
+    {
+      "text": "Clearly that was the plan all along. Absolutely planned.",
+      "category": "sarcasm",
+      "enabled": true
+    },
+    {
+      "text": "Another flawless execution of plan B. Or was that plan F?",
+      "category": "sarcasm",
+      "enabled": true
+    },
+    {
+      "text": "That boss is clearly scared of you. Look at it, terrified.",
+      "category": "sarcasm",
+      "enabled": true
+    },
+    {
+      "text": "Ah, the classic \"it worked in my head\" moment.",
+      "category": "sarcasm",
+      "enabled": true
+    },
+    {
+      "text": "Hydration check: more consistent than the aim today 💧",
+      "category": "sarcasm",
+      "enabled": true
+    },
+    {
+      "text": "Why did the streamer bring a ladder? To reach the next level 🪜",
+      "category": "witty_jokes",
+      "enabled": true
+    },
+    {
+      "text": "I would tell you a UDP joke, but you might not get it.",
+      "category": "witty_jokes",
+      "enabled": true
+    },
+    {
+      "text": "Plot twist: the real boss was the friends we made along the way.",
+      "category": "witty_jokes",
+      "enabled": true
+    },
+    {
+      "text": "Lag is just the game giving you time to think. Deep stuff.",
+      "category": "witty_jokes",
+      "enabled": true
+    },
+    {
+      "text": "If at first you do not succeed, call it a warm-up round.",
+      "category": "witty_jokes",
+      "enabled": true
+    },
+    {
+      "text": "I asked the snacks to join the stream. They said they were on a roll 🥐",
+      "category": "witty_jokes",
+      "enabled": true
+    },
+    {
+      "text": "Fun fact: watching this stream counts as cardio for my heart rate.",
+      "category": "witty_jokes",
+      "enabled": true
+    },
+    {
+      "text": "I would make a time travel joke, but you did not like it tomorrow.",
+      "category": "witty_jokes",
+      "enabled": true
+    },
+    {
+      "text": "Every stream is progress. Keep going 💪",
+      "category": "motivation",
+      "enabled": true
+    },
+    {
+      "text": "Mistakes are just practice wearing a disguise. You have got this!",
+      "category": "motivation",
+      "enabled": true
+    },
+    {
+      "text": "Remember to take a breath and enjoy the moment 🌟",
+      "category": "motivation",
+      "enabled": true
+    },
+    {
+      "text": "The fact that you show up is already a win.",
+      "category": "motivation",
+      "enabled": true
+    },
+    {
+      "text": "Growth is not always loud. Sometimes it is just showing up again.",
+      "category": "motivation",
+      "enabled": true
+    },
+    {
+      "text": "Hard parts make the good parts feel even better.",
+      "category": "motivation",
+      "enabled": true
+    },
+    {
+      "text": "Stay curious, stay kind, keep pushing forward.",
+      "category": "motivation",
+      "enabled": true
+    },
+    {
+      "text": "Your effort today is building the skills of tomorrow.",
+      "category": "motivation",
+      "enabled": true
+    },
+    {
+      "text": "Hope everyone in chat is having a cozy day ☕",
+      "category": "wholesome",
+      "enabled": true
+    },
+    {
+      "text": "Reminder: drink some water and stretch a little!",
+      "category": "wholesome",
+      "enabled": true
+    },
+    {
+      "text": "This chat is always so kind. Thank you all.",
+      "category": "wholesome",
+      "enabled": true
+    },
+    {
+      "text": "Grateful for every single person watching right now.",
+      "category": "wholesome",
+      "enabled": true
+    },
+    {
+      "text": "Love the positive energy in here tonight.",
+      "category": "wholesome",
+      "enabled": true
+    },
+    {
+      "text": "Shout out to everyone keeping this chat friendly and fun.",
+      "category": "wholesome",
+      "enabled": true
+    },
+    {
+      "text": "Little reminder that you matter and your day matters.",
+      "category": "wholesome",
+      "enabled": true
+    },
+    {
+      "text": "Wishing everyone a calm, happy rest of the week.",
+      "category": "wholesome",
+      "enabled": true
+    }
+  ]
+}

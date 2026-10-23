@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Live Chat Companion</title>
+  <link rel="stylesheet" href="/css/app.css">
+  <script type="module" src="/js/main.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="layout">
+    <aside class="sidebar" aria-label="Primary">
+      <div class="brand-row">
+        <a class="brand" href="#overview">
+          <span class="brand-mark" aria-hidden="true">LC</span>
+          <span class="brand-name">Live Chat Companion</span>
+        </a>
+        <button id="nav-toggle" class="btn btn-ghost nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">
+          <span class="visually-hidden">Toggle navigation</span>
+          <span class="burger" aria-hidden="true"></span>
+        </button>
+      </div>
+      <nav id="primary-nav" class="nav">
+        <a class="nav-link" href="#overview">Overview</a>
+        <a class="nav-link" href="#studio">Message Studio</a>
+        <a class="nav-link" href="#scheduler">Scheduler</a>
+        <a class="nav-link" href="#connections">Accounts</a>
+        <a class="nav-link" href="#logs">Activity Logs</a>
+        <a class="nav-link" href="#terms">Terms</a>
+      </nav>
+      <div class="nav-status" aria-label="Workflow status">
+        <span class="muted small">Workflows</span>
+        <span id="nav-status-pill"></span>
+        <span id="nav-countdown" class="nav-countdown">--:--</span>
+      </div>
+    </aside>
+
+    <div class="content">
+      <div id="test-banner" class="test-banner" role="status" hidden>
+        <strong>TEST MODE — nothing is posted.</strong>
+        <span>The test chat provider simulates sends; no messages reach YouTube.</span>
+      </div>
+      <main id="main" tabindex="-1">
+        <section id="view-overview" class="view" hidden></section>
+        <section id="view-studio" class="view" hidden></section>
+        <section id="view-scheduler" class="view" hidden></section>
+        <section id="view-connections" class="view" hidden></section>
+        <section id="view-logs" class="view" hidden></section>
+        <section id="view-terms" class="view" hidden></section>
+        <noscript><p class="empty">This dashboard needs JavaScript enabled.</p></noscript>
+      </main>
+    </div>
+  </div>
+  <div id="toasts" class="toasts" aria-live="polite" aria-atomic="false"></div>
+</body>
+</html>
